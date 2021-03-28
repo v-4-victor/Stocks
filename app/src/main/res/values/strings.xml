@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="enter_ticker_or_name_of_company">Enter ticker or name of company</string>
+</resources>
