@@ -1,11 +1,9 @@
 # Stocks
-## Light theme
+## Light theme and dark theme
 ![image](https://user-images.githubusercontent.com/69876296/112813808-4b1b5800-9087-11eb-9a50-65246cbe27d4.png)
-## Dark theme
 ![image](https://user-images.githubusercontent.com/69876296/112813930-6c7c4400-9087-11eb-8acb-f282916fcbf8.png)
-## Chart
+## Chart and list of news
 ![image](https://user-images.githubusercontent.com/69876296/112814588-1e1b7500-9088-11eb-9cb5-ba6d6b0ba4af.png)
-## List of news
 ![image](https://user-images.githubusercontent.com/69876296/112814656-312e4500-9088-11eb-9589-3fef285d4052.png)
 
 - To make stock favourite, tap on the stock image
